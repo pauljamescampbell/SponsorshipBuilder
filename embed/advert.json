@@ -1,0 +1,15 @@
+{
+  "type": "default",
+    "frameworkVersion": 1,
+    "background": "",
+    "size": "twoByOne",	
+    "campaignID": "%%CAMP%%",
+    "views": {},
+    "stack": [
+    {
+      "media": { "type": "image", "reference": "%%CDN%%/RealMedia/ads/Creatives/%%CAMP%%/C4_slotad_Tonight_v4.gif" },
+      "hotspots": [ { "targetAd": "<%TARGETAD%>" } ]
+    }
+  ]
+}
+
